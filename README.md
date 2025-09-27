@@ -115,7 +115,7 @@ Project is MIT-licensed for open source development.
 ### Resources
 
 - **UI Screenshots:** Available on [Dribbble] and [Behance]
-- **Demo Videos:** [CRM Jewelry application demo][3], [Shopify CRM integration], [CRM Jewelers YouTube Channel].
+- **Demo Videos:**(https://youtu.be/kRew26l121g?si=SjE8ToznGsOSvd-N) . [Shopify CRM integration], [https://youtube.com/@n.jeevanbabu2517?si=dYtkWJ-ys3jpSD5S].
 - **GitHub Code:** 
 ***
 
